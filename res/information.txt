@@ -1,0 +1,180 @@
+23/3/2021 9:39:26
+Current number of sick people: 84 / Total number of sick people: 84 / Total number of healed people: 0
+5 5
+4	1	3	3	5	
+3	9	1	9	2	
+7	X	2	3	3	
+2	4	6	X	6	
+8	3	X	0	0
+
+
+23/3/2021 9:43:9
+Current number of sick people: 96 / Total number of sick people: 96 / Total number of healed people: 0
+5 5
+5	6	8	0	0	
+1	5	0	7	6	
+3	6	9	0	0	
+4	5	9	0	1	
+0	7	7	6	1	
+
+
+23/3/2021 9:43:23
+Current number of sick people: 41 / Total number of sick people: 108 / Total number of healed people: 65
+5 5
+12	2	3	0	0	
+0	2	0	2	2	
+1	2	3	0	0	
+1	2	3	0	0	
+0	2	2	2	0	
+
+
+27/3/2021 9:7:18
+Current number of sick people: 92 / Total number of sick people: 92 / Total number of healed people: 0
+5 5
+X	7	0	0	4	
+1	6	6	8	6	
+8	0	9	3	0	
+4	4	X	9	6	
+0	3	5	3	0	
+
+
+27/3/2021 10:12:21
+Current number of sick people: 84 / Total number of sick people: 85 / Total number of healed people: 1
+5 5
+0	6	6	4	8	
+4	8	2	4	7	
+0	5	3	X	9	
+0	4	2	X	0	
+0	1	3	8	0	
+
+
+28/3/2021 22:33:11
+Current number of sick people: 93 / Total number of sick people: 85 / Total number of healed people: 0
+5 5
+X	7	5	6	6	
+9	7	4	9	1	
+7	0	6	1	4	
+X	3	2	0	0	
+X	6	3	7	X	
+
+
+10/5/2021 12:29:30
+Current number of sick people: 99 / Total number of sick people: 104 / Total number of healed people: 0
+5 5
+0	3	7	6	7	
+3	X	9	6	9	
+2	1	X	9	9	
+5	2	1	7	-4	
+X	3	0	1	9	
+
+
+10/5/2021 12:32:46
+Current number of sick people: 94 / Total number of sick people: 94 / Total number of healed people: 0
+5 5
+0	5	7	4	7	
+0	9	4	2	2	
+5	5	2	1	7	
+1	5	1	6	3	
+0	3	5	2	8	
+
+
+10/5/2021 12:33:54
+Current number of sick people: 78 / Total number of sick people: 78 / Total number of healed people: 0
+5 5
+0	2	3	0	4	
+1	0	8	X	6	
+X	2	7	7	7	
+2	6	5	5	0	
+8	4	1	0	X	
+
+
+10/5/2021 12:34:13
+Current number of sick people: 88 / Total number of sick people: 93 / Total number of healed people: 0
+5 5
+0	2	3	0	4	
+1	0	8	X	6	
+X	2	7	7	7	
+2	6	5	15	0	
+8	4	1	0	X	
+
+
+10/5/2021 12:34:34
+Current number of sick people: 88 / Total number of sick people: 93 / Total number of healed people: 0
+5 5
+0	2	3	0	4	
+1	0	8	X	6	
+X	2	7	7	7	
+2	6	5	0	15	
+8	4	1	0	X	
+
+
+10/5/2021 13:44:15
+Current number of sick people: 114 / Total number of sick people: 118 / Total number of healed people: 0
+5 5
+5	9	7	8	5	
+0	0	2	9	5	
+9	8	8	5	8	
+X	4	2	6	9	
+4	X	1	0	X	
+
+
+10/5/2021 13:44:51
+Current number of sick people: 109 / Total number of sick people: 118 / Total number of healed people: 5
+5 5
+0	9	7	8	5	
+0	0	2	9	5	
+9	8	8	5	8	
+X	4	2	6	9	
+4	X	1	0	X	
+
+
+10/5/2021 13:45:43
+Current number of sick people: 100 / Total number of sick people: 118 / Total number of healed people: 14
+5 5
+0	0	7	8	5	
+0	0	2	9	5	
+9	8	8	5	8	
+X	4	2	6	9	
+4	X	1	0	X	
+
+
+10/5/2021 13:49:24
+Current number of sick people: 69 / Total number of sick people: 69 / Total number of healed people: 0
+5 5
+1	X	3	0	9	
+7	X	0	8	3	
+6	X	1	0	4	
+2	5	X	2	8	
+4	X	4	2	0	
+
+
+10/51/2021 13:50:17
+Current number of sick people: 116 / Total number of sick people: 116 / Total number of healed people: 0
+5 5
+5	4	X	8	9	
+6	X	3	X	8	
+5	2	5	5	7	
+4	1	4	0	9	
+7	6	9	9	0	
+
+
+10/6/2021 13:50:54
+Current number of sick people: 98 / Total number of sick people: 98 / Total number of healed people: 0
+5 5
+4	1	5	1	9	
+5	7	0	9	5	
+1	8	8	8	9	
+0	0	4	0	4	
+0	0	7	3	0	
+
+
+10/6/2021 13:59:21
+Current number of sick people: 62 / Total number of sick people: 62 / Total number of healed people: 0
+5 5
+4	1	1	1	X	
+0	3	0	4	2	
+2	8	3	X	3	
+8	5	0	4	0	
+X	4	X	4	5	
+
+
